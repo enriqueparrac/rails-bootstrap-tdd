@@ -1,6 +1,6 @@
 https://blogappepc.herokuapp.com/
 
-STYLIZED APPLICATION USING BOOTSTRAP, RAILS 4.1.8 AND RUBY 2.1.5
+APP USING RUBY 2.1.5, RAILS 4.1.8 AND BOOTSTRAP
 - MVC
 - Migrations
 - Debugger
@@ -29,6 +29,16 @@ TEST-DRIVEN DEVELOPMENT
 - Test method
 - Assert
 - Rake test
+
+TEST ACCOUNTS
+Email: user1@example.com
+Password: user1
+
+Email: user2@example.com
+Password: user2
+
+Email: user3@example.com
+Password: user3
 
 ADMIN USER
 Email: admin@example.com
