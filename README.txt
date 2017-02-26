@@ -1,3 +1,5 @@
+https://blogappepc.herokuapp.com/
+
 STYLIZED APPLICATION USING BOOTSTRAP, RAILS 4.1.8 AND RUBY 2.1.5
 - MVC
 - Migrations
@@ -22,12 +24,12 @@ ASSOCIATIONS
 - One-to-many
 - Many-to-many
 
-*****  TEST DRIVEN DEVELOPMENT (TDD)  *****
+TEST-DRIVEN DEVELOPMENT
 - Unit tests
 - Test method
 - Assert
 - Rake test
 
-*****  ADMIN USER  *****
-Email:  admin@correo.com
-Password:  admin
+ADMIN USER
+Email: admin@example.com
+Password: admin
