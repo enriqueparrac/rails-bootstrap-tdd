@@ -16,7 +16,7 @@ AUTHENTICATION SYSTEMS
 - Admin user 
 - Users profile with a gravatar image
 
-UI
+GUI
 - Validations
 - Pagination
 
